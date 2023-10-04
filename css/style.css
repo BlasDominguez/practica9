@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199,247,247);
+}
+nav{
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+.thead-dark{
+    background-color: rgb(1, 120, 136);
+    color: rgb(255, 255, 255);
+}
+#info{
+    text-align: justify;
+}
+#final{
+    background-color: rgb(2, 22, 29);
+    color: white;
+}
+#descrip{
+    text-align: justify;
+}
